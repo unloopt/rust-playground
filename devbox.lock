@@ -6,6 +6,26 @@
       "resolved": "github:NixOS/nixpkgs/8d4d822bc0efa9de6eddc79cb0d82897a9baa750#libiconv",
       "version": "2.37"
     },
+    "nats-top@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#nats-top",
+      "version": "0.6.0"
+    },
+    "natscli@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#natscli",
+      "version": "0.0.35"
+    },
+    "nsc@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#nsc",
+      "version": "2.8.0"
+    },
+    "rust-analyzer@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#rust-analyzer",
+      "version": "2023-06-26"
+    },
     "rustup@latest": {
       "last_modified": "2023-05-25T03:54:59Z",
       "plugin_version": "0.0.1",

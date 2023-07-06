@@ -1,7 +1,11 @@
 {
   "packages": [
     "rustup@latest",
-    "libiconv@latest"
+    "libiconv@latest",
+    "natscli@latest",
+    "nats-top@latest",
+    "nsc@latest",
+    "rust-analyzer@latest"
   ],
   "env": {
     "PROJECT_DIR": "$PWD"
@@ -18,7 +22,7 @@
       "build-docs": "cargo doc",
       "run": "cargo run",
       "test": [
-          "cargo test -- --show-output"
+        "cargo test -- --show-output"
       ]
     }
   }
