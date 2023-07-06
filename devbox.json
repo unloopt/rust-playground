@@ -8,16 +8,18 @@
   },
   "shell": {
     "init_hook": [
-      ". config/set-env.sh",
-      "rustup default stable"
+      "source config/set-env.sh",
+      "source config/install-tailwind.sh",
+      "rustup default stable",
+      "cargo fetch"
     ],
     "scripts": {
       "build": "cargo build",
+      "build-docs": "cargo doc",
       "run": "cargo run",
       "test": [
           "cargo test -- --show-output"
-      ],
-      "build-docs": "cargo doc"
+      ]
     }
   }
 }
