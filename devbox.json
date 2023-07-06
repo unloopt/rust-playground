@@ -13,7 +13,8 @@
     "init_hook": [
       "source scripts/set-env.sh",
       "source scripts/install-tailwind.sh",
-      "rustup default stable --component rust-analyzer",
+      "rustup default stable",
+      "rustup component add rust-analyzer",
       "cargo fetch"
     ],
     "scripts": {
