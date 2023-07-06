@@ -8,8 +8,8 @@
   },
   "shell": {
     "init_hook": [
-      "source config/set-env.sh",
-      "source config/install-tailwind.sh",
+      "source scripts/set-env.sh",
+      "source scripts/install-tailwind.sh",
       "rustup default stable",
       "cargo fetch"
     ],
