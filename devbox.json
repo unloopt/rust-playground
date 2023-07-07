@@ -15,7 +15,8 @@
       "source scripts/install-tailwind.sh",
       "rustup default stable",
       "rustup component add rust-analyzer",
-      "cargo fetch"
+      "cargo fetch",
+      "git config pull.ff only"
     ],
     "scripts": {
       "build": "cargo build",
