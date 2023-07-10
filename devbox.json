@@ -4,7 +4,9 @@
     "libiconv@latest",
     "natscli@latest",
     "nats-top@latest",
-    "nsc@latest"
+    "nsc@latest",
+    "flutter@latest",
+    "path:flakes/ory-cli"
   ],
   "env": {
     "PROJECT_DIR": "$PWD"
@@ -12,11 +14,8 @@
   "shell": {
     "init_hook": [
       "source scripts/set-env.sh",
-      "source scripts/install-tailwind.sh",
       "rustup default stable",
-      "rustup component add rust-analyzer",
-      "cargo fetch",
-      "git config pull.ff only"
+      "cargo fetch"
     ],
     "scripts": {
       "build": "cargo build",

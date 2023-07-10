@@ -4,7 +4,9 @@
 		"vadimcn.vscode-lldb",
 		"rust-lang.rust-analyzer",
 		"tamasfe.even-better-toml",
-		"serayuzgur.crates"
+		"serayuzgur.crates",
+		"dart-code.flutter",
+		"mkhl.direnv",
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": []
