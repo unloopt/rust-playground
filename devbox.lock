@@ -1,6 +1,11 @@
 {
   "lockfile_version": "1",
   "packages": {
+    "dart@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#dart",
+      "version": "3.0.5"
+    },
     "flutter@latest": {
       "last_modified": "2023-03-31T22:52:29Z",
       "resolved": "github:NixOS/nixpkgs/242246ee1e58f54d2322227fc5eef53b4a616a31#flutter",

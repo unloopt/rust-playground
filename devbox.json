@@ -5,6 +5,7 @@
     "natscli@latest",
     "nats-top@latest",
     "nsc@latest",
+    "dart@latest",
     "flutter@latest",
     "path:flakes/ory-cli"
   ],
