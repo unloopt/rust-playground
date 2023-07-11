@@ -7,7 +7,14 @@
     "nsc@latest",
     "dart@latest",
     "flutter@latest",
-    "path:flakes/ory-cli"
+    "path:flakes/ory-cli",
+    "unzip@latest",
+    "cmake@latest",
+    "ninja@latest",
+    "clang@latest",
+    "pkg-config@latest",
+    "gtk4@latest",
+    "zip@latest"
   ],
   "env": {
     "PROJECT_DIR": "$PWD"

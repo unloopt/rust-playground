@@ -1,6 +1,16 @@
 {
   "lockfile_version": "1",
   "packages": {
+    "clang@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#clang",
+      "version": "11.1.0"
+    },
+    "cmake@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#cmake",
+      "version": "3.26.4"
+    },
     "dart@latest": {
       "last_modified": "2023-06-29T16:20:38Z",
       "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#dart",
@@ -10,6 +20,11 @@
       "last_modified": "2023-03-31T22:52:29Z",
       "resolved": "github:NixOS/nixpkgs/242246ee1e58f54d2322227fc5eef53b4a616a31#flutter",
       "version": "3.3.8"
+    },
+    "gtk4@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#gtk4",
+      "version": "4.10.4"
     },
     "libiconv@latest": {
       "last_modified": "2023-05-25T03:54:59Z",
@@ -26,16 +41,36 @@
       "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#natscli",
       "version": "0.0.35"
     },
+    "ninja@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#ninja",
+      "version": "1.11.1"
+    },
     "nsc@latest": {
       "last_modified": "2023-06-29T16:20:38Z",
       "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#nsc",
       "version": "2.8.0"
+    },
+    "pkg-config@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#pkg-config",
+      "version": "0.29.2"
     },
     "rustup@latest": {
       "last_modified": "2023-05-25T03:54:59Z",
       "plugin_version": "0.0.1",
       "resolved": "github:NixOS/nixpkgs/8d4d822bc0efa9de6eddc79cb0d82897a9baa750#rustup",
       "version": "1.26.0"
+    },
+    "unzip@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#unzip",
+      "version": "6.0"
+    },
+    "zip@latest": {
+      "last_modified": "2023-06-29T16:20:38Z",
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#zip",
+      "version": "3.0"
     }
   }
 }
