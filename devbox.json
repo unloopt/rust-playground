@@ -1,19 +1,13 @@
 {
   "packages": [
-    "zip@latest",
-    "unzip@latest",
-    "libiconv@latest",
     "rustup@latest",
-    "flutter@latest",
-    "cmake@latest",
-    "ninja@latest",
-    "clang@latest",
-    "pkg-config@latest",
-    "gtk4@latest",
+    "libiconv@latest",
     "natscli@latest",
     "nats-top@latest",
     "nsc@latest",
-    "path:flakes/ory-cli"
+    "cargo-shuttle@latest",
+    "path:flakes/ory-cli",
+    "flutter37@latest"
   ],
   "env": {
     "PROJECT_DIR": "$PWD"
