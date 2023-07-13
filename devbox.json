@@ -1,7 +1,6 @@
 {
   "packages": [
     "rustup@latest",
-    "libiconv@latest",
     "natscli@latest",
     "nats-top@latest",
     "nsc@latest",
