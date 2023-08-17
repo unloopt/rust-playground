@@ -1,12 +1,11 @@
 {
   "packages": [
     "rustup@latest",
+    "cargo-shuttle@latest",
     "natscli@latest",
     "nats-top@latest",
     "nsc@latest",
-    "cargo-shuttle@latest",
-    "path:flakes/ory-cli",
-    "flutter37@latest"
+    "path:flakes/ory-cli"
   ],
   "env": {
     "PROJECT_DIR": "$PWD"
