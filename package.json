@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/unloopt/rust-playground/issues"
   },
-  "homepage": "https://github.com/unloopt/rust-playground#readme"
+  "homepage": "https://github.com/unloopt/rust-playground#readme",
+  "devDependencies": {
+    "@nx/expo": "^16.7.1",
+    "nx": "16.7.1",
+    "nx-cloud": "latest"
+  },
+  "nx": {
+    "targets": {}
+  }
 }
