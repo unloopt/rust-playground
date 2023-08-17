@@ -5,7 +5,8 @@
     "natscli@latest",
     "nats-top@latest",
     "nsc@latest",
-    "path:flakes/ory-cli"
+    "path:flakes/ory-cli",
+    "nodejs@latest"
   ],
   "env": {
     "PROJECT_DIR": "$PWD"
