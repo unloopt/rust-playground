@@ -7,7 +7,6 @@
     "mkhl.direnv",
     "dbaeumer.vscode-eslint",
     "jetpack-io.devbox",
-    "esbenp.prettier-vscode",
     "firsttris.vscode-jest-runner",
     "nrwl.angular-console",
     "github.vscode-github-actions"
