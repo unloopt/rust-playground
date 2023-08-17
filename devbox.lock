@@ -8,7 +8,8 @@
     },
     "flutter37@latest": {
       "last_modified": "2023-06-29T16:20:38Z",
-      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#flutter37"
+      "resolved": "github:NixOS/nixpkgs/3c614fbc76fc152f3e1bc4b2263da6d90adf80fb#flutter37",
+      "source": "devbox-search"
     },
     "nats-top@latest": {
       "last_modified": "2023-06-29T16:20:38Z",

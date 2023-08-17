@@ -4,15 +4,5 @@
         "**/target/**": true
     },
     "git.autofetch": true,
-    "rust-analyzer.check.command": "clippy",
-    "[dart]": {
-        "editor.formatOnType": true,
-        "editor.rulers": [
-            80
-        ],
-        "editor.selectionHighlight": false,
-        "editor.suggestSelection": "first",
-        "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false
-    }
+    "rust-analyzer.check.command": "clippy"
 }
