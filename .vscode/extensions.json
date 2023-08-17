@@ -5,7 +5,8 @@
 		"tamasfe.even-better-toml",
 		"serayuzgur.crates",
 		"mkhl.direnv",
-		"dbaeumer.vscode-eslint"
+		"dbaeumer.vscode-eslint",
+		"jetpack-io.devbox"
 	],
 	"unwantedRecommendations": []
 }
