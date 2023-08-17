@@ -15,7 +15,8 @@
     "init_hook": [
       "source scripts/set-env.sh",
       "rustup default stable",
-      "cargo fetch"
+      "cargo fetch",
+      "npm install"
     ],
     "scripts": {
       "build": "cargo build",
