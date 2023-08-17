@@ -9,7 +9,8 @@
     "jetpack-io.devbox",
     "esbenp.prettier-vscode",
     "firsttris.vscode-jest-runner",
-    "nrwl.angular-console"
+    "nrwl.angular-console",
+    "github.vscode-github-actions"
   ],
   "unwantedRecommendations": []
 }
