@@ -18,6 +18,7 @@
   "homepage": "https://github.com/unloopt/rust-playground#readme",
   "devDependencies": {
     "@nx/expo": "^16.7.1",
+    "@nxrs/cargo": "^0.3.3",
     "nx": "16.7.1",
     "nx-cloud": "latest"
   },
